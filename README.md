@@ -1,6 +1,10 @@
 # GraChAID
 Grammar Checker for the AI DEBUGGER zip 
 
+V 1.6.1 
+  - Updated link
+  - updated version
+
 Grammar Checker for AI-Debugger
 - New Features
 
