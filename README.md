@@ -4,12 +4,16 @@ Grammar Checker for the AI DEBUGGER zip
 V1.7 
 - Updates and fixes-
 - ✨ Improved error analysis and system instructions
-- Linters for double spaces, multiple dots, and misspelled words
-- Expanded list of backticked commands
-- Updated default agent instructions and dark theme
-- Fixed copy all button and added success message
-- 🔧 Enhanced spell-checking logic to exclude empty and whitespace-only strings
-- GPT is not supported yet (I'm working on it ;D )
+- Improved Linters for double spaces, multiple dots, more misspelled words and fixed the "Empty string " misspelling.
+- Expanded list of backticked commands.
+- Updated default agent instructions.
+- The UI theme is now Darks! 
+- Fixed "copy all button", now all messages are displayed and the coppy all copy all the thoughs and actions in triming the whitespaces. And it shows copy success message
+- 🔧 Enhanced spell-checking logic to exclude empty and whitespace-only strings.
+- GPT is not supported yet (I'm working on it ;D ).
+----
+Any sugestions ? 
+----
 
 V 1.6.1 
   - Updated link
