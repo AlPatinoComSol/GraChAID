@@ -1,5 +1,5 @@
-# GraChAID
-Grammar Checker for the AI DEBUGGER zip 
+# GraChAIDAID
+Grammar Checker AID for the AI DEBUGGER zip 
 
 Please provide any additional suggestions to improve this tool.
 ----
