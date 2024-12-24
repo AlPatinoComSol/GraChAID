@@ -1,7 +1,18 @@
 # GraChAID
 Grammar Checker for the AI DEBUGGER zip 
 
+Please provide any additional suggestions to improve this tool.
+----
+WIP
+----
+- GPT is not supported yet (I'm working on it ;D ).
+- A button to make the tool useful for reviews.
+
+
+----
+On the current Version
 V1.7 
+----
 - Updates and fixes-
 - ✨ Improved error analysis and system instructions
 - Improved Linters for double spaces, multiple dots, more misspelled words and fixed the "Empty string " misspelling.
@@ -10,9 +21,9 @@ V1.7
 - The UI theme is now Darks! 
 - Fixed "copy all button", now all messages are displayed and the coppy all copy all the thoughs and actions in triming the whitespaces. And it shows copy success message
 - 🔧 Enhanced spell-checking logic to exclude empty and whitespace-only strings.
-- GPT is not supported yet (I'm working on it ;D ).
+
 ----
-Any sugestions ? 
+
 ----
 
 V 1.6.1 
