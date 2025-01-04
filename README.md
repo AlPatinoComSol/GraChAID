@@ -18,6 +18,8 @@ It works with two checker. A Regex  and with an Gemini API. The current URL is: 
 
 ### How to set up the API key
 
+It is very likely that the personal use of the API key falls under the FREE TIER. You have up to 15 req per minutte and 1,000,000 tokens per day in Free tier, it should be enough. But if you exceede this amount of requests or tokens you will be charged a minimum amount. For example for the constant usage of 5 active contributors I was charged for 3 USD in one week.
+
 1. Go to the [GEMINI API](https://aistudio.google.com/app/apikey) page.
 2. Click on the "Create API key" button.
 3. Select a project.
