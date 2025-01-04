@@ -23,10 +23,10 @@ It is very likely that the personal use of the API key falls under the FREE TIER
 1. Go to the [GEMINI API](https://aistudio.google.com/app/apikey) page.
 2. Click on the "Create API key" button.
 3. Select a project.
-    3.1. If you don't have a project, go to [Google Cloud Console](https://console.cloud.google.com/).
-    3.2 In the top there is a search bar, write "Create a project".
-    3.3 Fill the form and click on the "Create" button.
-    3.4 Once the project is created, it should be listed in the "Projects" section of the [GEMINI API](https://aistudio.google.com/app/apikey) page (you might need to refresh the page).
+    * 3.1. If you don't have a project, go to [Google Cloud Console](https://console.cloud.google.com/).
+    * 3.2. In the top there is a search bar, write "Create a project".
+    * 3.3. Fill the form and click on the "Create" button.
+    * 3.4. Once the project is created, it should be listed in the "Projects" section of the [GEMINI API](https://aistudio.google.com/app/apikey) page (you might need to refresh the page).
 4. Generate the API key.
 5. Copy the API key.
 6. Paste the API key in the .env file on the `GEMINI_API_KEY` field.
@@ -36,9 +36,9 @@ It is very likely that the personal use of the API key falls under the FREE TIER
     ```
 8. Replace the `GEMINI_API_KEY` with your API key.
 9. Reload the extension.
-    9.1 Go to the extensions page (chrome://extensions/).
-    9.2 Click on the "Reload" button.
-    9.3 The extension will be installed and you will be able to use it.
+    * 9.1 Go to the extensions page (chrome://extensions/).
+    * 9.2 Click on the "Reload" button.
+    * 9.3 The extension will be installed and you will be able to use it.
 
 ### How to use the tool
 Once you have installed the extension, you can use it by clicking on the extension icon in the Chrome toolbar.
