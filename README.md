@@ -1,13 +1,13 @@
-## GrAID2 Documentation
+## GrAID^2 Documentation
 
 
 ### Introduction
 This tool is an extension for Google Chrome that allows users to perform a grammar check for their trajectories in the AI DEBUGGER.
-It works with two checker. A Regex  and with an Gemini API. The current URL is: [GraAID2](https://github.com/AlPatinoComSol/GraChAID).
+It works with two checker. A Regex  and with an Gemini API. The current URL is: [GraAID^2](https://github.com/AlPatinoComSol/GraChAID).
 
 ### How to set up the tool
 
-1. Download latest .zip file from the [GrAID2 GitHub repository](https://github.com/AlPatinoComSol/GraChAID).
+1. Download latest .zip file from the [GrAID^2 GitHub repository](https://github.com/AlPatinoComSol/GraChAID).
 2. Unzip the file.
 3. Open Google Chrome and go to the extensions page (chrome://extensions/).
 4. Activate the "Developer mode" in the top right corner.
