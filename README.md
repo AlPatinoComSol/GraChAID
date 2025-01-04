@@ -80,37 +80,5 @@ It is up to you to decide if you want to apply the suggestions or not.
 WIP
 ----
 - GPT is not supported yet (I'm working on it ;D ).
-- A button to make the tool useful for reviews.
 
-
-----
-On the current Version
-V1.7 
-----
-- Updates and fixes-
-- ✨ Improved error analysis and system instructions
-- Improved Linters for double spaces, multiple dots, more misspelled words and fixed the "Empty string " misspelling.
-- Expanded list of backticked commands.
-- Updated default agent instructions.
-- The UI theme is now Darks! 
-- Fixed "copy all button", now all messages are displayed and the coppy all copy all the thoughs and actions in triming the whitespaces. And it shows copy success message
-- 🔧 Enhanced spell-checking logic to exclude empty and whitespace-only strings.
-
-----
-
-----
-
-V 1.6.1 
-  - Updated link
-  - updated version
-
-V1.4
-Grammar Checker for AI-Debugger
-- New Features
-
-- ✨ Enhanced text analysis
-- 🔄 Real-time grammar checking
-- 🎨 UI improvements
-- 🔍 Detailed error analysis
-- 🔍 Copy buttons added to the side panel
 
