@@ -76,11 +76,5 @@ Please note that the **Turn Analysis** is a simple analysis (and always will app
 
 It is up to you to decide if you want to apply the suggestions or not.
 
-**Note**: Any suggestions on improvements are welcome, please feel free to provide to **AlPatino**
-
-----
-WIP
-----
-- GPT is not supported yet (I'm working on it ;D ).
-
+**Note**: Any suggestions on improvements are welcome, please feel free to provide them to **AlPatino**
 
